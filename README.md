@@ -1,2 +1,2 @@
-Javascript
+# Javascript
 The Javascript programming language
