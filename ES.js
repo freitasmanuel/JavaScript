@@ -165,7 +165,7 @@ function Fx_Mishra_Bird(Arreglo) {
 
 var Parametros = {
     "N_Individuos": 100,
-    "sigma": 1,
+    "sigma": 5,
     "lambda": 100,
     "tau": 0.18,
     "N_Iteraciones": 50000,
