@@ -1,2 +1,2 @@
-# JavaScript
-Metaheurísticas en JavaScript
+# Metaheurísticas en JavaScript
+
